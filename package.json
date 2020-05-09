@@ -21,6 +21,15 @@
     "@wdio/spec-reporter": "^6.1.9",
     "@wdio/sync": "^6.1.8"
   },
+
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Clement06/CucumberJavaScript.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Clement06/CucumberJavaScript/issues"
+  },
+  "homepage": "https://github.com/Clement06/CucumberJavaScript#readme",
   "dependencies": {
     "@wdio/cli": "^6.1.9",
     "webdriverio": "^6.1.9"
